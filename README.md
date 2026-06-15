@@ -55,7 +55,7 @@ fun_fact: "I debug with coffee ☕ and deploy with courage 🚀"
 
 </td>
 <td width="45%" valign="middle" align="center">
-  <img src="https://media.giphy.com/media/3p50WXBQsPAKsHo2Zs/giphy.gif" width="360" alt="Coding Timelapse"/>
+  <img src="./assets/coding.gif" width="360" alt="Coding Timelapse"/>
 </td>
 </tr>
 </table>
