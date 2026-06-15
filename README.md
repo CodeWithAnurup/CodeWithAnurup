@@ -12,7 +12,7 @@
 <!-- ═══════════════════ ANIMATED TYPING ═══════════════════ -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FCA311&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%91%8B+Hey+there!+I'm+Anurup+Samanta;%F0%9F%92%BB+Building+the+future+with+code;%F0%9F%A4%96+Machine+Learning+%7C+Data+Science;%F0%9F%8E%A8+Turning+data+into+stories" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FCA311&center=true&vCenter=true&width=800&height=50&lines=%F0%9F%91%8B+Hey+there!+I'm+Anurup+Samanta;%F0%9F%92%BB+Building+the+future+with+code;%F0%9F%A4%96+Machine+Learning+%7C+Data+Science;%F0%9F%8E%A8+Turning+data+into+stories" alt="Typing SVG" />
 </a>
 
 <!-- ═══════════════════ PROFILE VIEWS & SOCIAL ═══════════════════ -->
