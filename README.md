@@ -31,9 +31,11 @@
 
 <br/>
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" /> &nbsp;About Me
+
+<table>
+  <tr>
+    <td width="55%" valign="top">
 
 ```yaml
 name: Anurup Samanta
@@ -51,7 +53,12 @@ interests:
 fun_fact: "I debug with coffee ☕ and deploy with courage 🚀"
 ```
 
-<br clear="both"/>
+</td>
+<td width="45%" valign="middle" align="center">
+  <img src="https://media.giphy.com/media/3p50WXBQsPAKsHo2Zs/giphy.gif" width="360" alt="Coding Timelapse"/>
+</td>
+</tr>
+</table>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   🛠️ TECH SKILLS SECTION                      -->
