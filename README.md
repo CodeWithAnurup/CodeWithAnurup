@@ -20,8 +20,8 @@
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=CodeWithAnurup&style=for-the-badge&color=FF6B6B&label=PROFILE+VIEWS)](https://github.com/CodeWithAnurup)
-[![GitHub followers](https://img.shields.io/github/followers/CodeWithAnurup?style=for-the-badge&color=FCA311&labelColor=1a1b27&logo=github)](https://github.com/CodeWithAnurup?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/CodeWithAnurup?style=for-the-badge&color=E040FB&labelColor=1a1b27&logo=github)](https://github.com/CodeWithAnurup)
+[![GitHub followers](https://img.shields.io/badge/followers-1-FCA311?style=for-the-badge&color=FCA311&labelColor=1a1b27&logo=github)](https://github.com/CodeWithAnurup?tab=followers)
+[![GitHub Stars](https://img.shields.io/badge/stars-4-E040FB?style=for-the-badge&color=E040FB&labelColor=1a1b27&logo=github)](https://github.com/CodeWithAnurup)
 
 </div>
 
