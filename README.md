@@ -188,45 +188,6 @@ fun_fact: "I debug with coffee ☕ and deploy with courage 🚀"
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  🏆 POPULAR REPOS SECTION                     -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<br/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="30" /> &nbsp;Popular Repositories
-
-<div align="center">
-
-<a href="https://github.com/CodeWithAnurup/spam-filter-mbo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeWithAnurup&repo=spam-filter-mbo&theme=radical&border_color=FF6B6B&bg_color=0d1117&title_color=FF6B6B&icon_color=FCA311&text_color=c9d1d9" width="400"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/CodeWithAnurup/login-system-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeWithAnurup&repo=login-system-project&theme=radical&border_color=FCA311&bg_color=0d1117&title_color=FCA311&icon_color=E040FB&text_color=c9d1d9" width="400"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/CodeWithAnurup/Diwali-sales-DS-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeWithAnurup&repo=Diwali-sales-DS-project&theme=radical&border_color=E040FB&bg_color=0d1117&title_color=E040FB&icon_color=00D2FF&text_color=c9d1d9" width="400"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/CodeWithAnurup/SPAM_MAIL_DETECTION">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeWithAnurup&repo=SPAM_MAIL_DETECTION&theme=radical&border_color=00D2FF&bg_color=0d1117&title_color=00D2FF&icon_color=00F5A0&text_color=c9d1d9" width="400"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/CodeWithAnurup/iris_classifier">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeWithAnurup&repo=iris_classifier&theme=radical&border_color=00F5A0&bg_color=0d1117&title_color=00F5A0&icon_color=FF6B6B&text_color=c9d1d9" width="400"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/CodeWithAnurup/js.js">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeWithAnurup&repo=js.js&theme=radical&border_color=FF85A2&bg_color=0d1117&title_color=FF85A2&icon_color=FCA311&text_color=c9d1d9" width="400"/>
-</a>
-
-</div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    📈 GITHUB STATS                            -->
