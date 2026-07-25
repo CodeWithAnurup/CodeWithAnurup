@@ -194,9 +194,6 @@ fun_fact: "I debug with coffee ☕ and deploy with courage 🚀"
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <br/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Stats" width="30" /> &nbsp;GitHub Stats
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=CodeWithAnurup&show_icons=true&theme=radical&bg_color=0d1117&border_color=FF6B6B&title_color=FF6B6B&icon_color=FCA311&text_color=c9d1d9&ring_color=E040FB&hide_border=false&count_private=true" width="49%" alt="GitHub Stats"/>
