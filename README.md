@@ -136,12 +136,7 @@ fun_fact: "I debug with coffee ☕ and deploy with courage 🚀"
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   💫 SOFT SKILLS SECTION                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
-<br/>
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Stats" width="30" /> &nbsp;GitHub Stats
-
-
-##<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Soft Skills" width="30" /> &nbsp;Soft Skills & Superpowers
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Soft Skills" width="30" /> &nbsp;Soft Skills & Superpowers
 
 <div align="center">
 
@@ -189,24 +184,66 @@ fun_fact: "I debug with coffee ☕ and deploy with courage 🚀"
 </table>
 
 </div>
-
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    📈 GITHUB STATS                            -->
+<!-- 📈 GITHUB STATS -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<br/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Stats" width="30" /> &nbsp;GitHub Stats
+<br>
+
+<h2 align="left">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30">
+  GitHub Stats
+</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CodeWithAnurup&show_icons=true&theme=radical&bg_color=0d1117&border_color=FF6B6B&title_color=FF6B6B&icon_color=FCA311&text_color=c9d1d9&ring_color=E040FB&hide_border=false&count_private=true" width="49%" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithAnurup&theme=radical&background=0d1117&border=FCA311&stroke=FCA311&ring=FF6B6B&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FCA311&currStreakLabel=E040FB&sideLabels=E040FB&dates=c9d1d9" width="49%" alt="GitHub Streak"/>
+<table>
+<tr>
 
-<br/><br/>
+<td align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithAnurup&layout=donut-vertical&theme=radical&bg_color=0d1117&border_color=E040FB&title_color=E040FB&text_color=c9d1d9&hide_border=false" width="38%" alt="Top Languages"/>
+<img
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=CodeWithAnurup&show_icons=true&theme=radical&bg_color=0d1117&border_color=FF6B6B&title_color=FF6B6B&icon_color=FCA311&text_color=c9d1d9&ring_color=E040FB&hide_border=false&count_private=true&include_all_commits=true"
+alt="GitHub Stats"
+/>
+
+</td>
+
+<td align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=CodeWithAnurup&theme=radical&background=0d1117&border=FCA311&stroke=FCA311&ring=FF6B6B&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FCA311&currStreakLabel=E040FB&sideLabels=E040FB&dates=c9d1d9"
+alt="GitHub Streak"
+/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2" align="center">
+
+<br>
+
+<div align="left">
+
+```
+🐍 Python          ████████████████████
+💻 C               ████████████████
+📊 SQL             ███████████████
+🤖 Scikit-Learn    ███████████████
+📈 Pandas          ███████████████
+🔢 NumPy           ███████████████
+```
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
@@ -225,20 +262,6 @@ fun_fact: "I debug with coffee ☕ and deploy with courage 🚀"
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeWithAnurup/CodeWithAnurup/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/CodeWithAnurup/CodeWithAnurup/output/github-snake-dark.svg" width="100%"/>
 </picture>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  🏆 GITHUB TROPHIES                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<br/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="30" /> &nbsp;GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=CodeWithAnurup&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" width="100%"/>
 
 </div>
 
