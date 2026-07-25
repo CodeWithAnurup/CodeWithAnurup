@@ -196,7 +196,7 @@ fun_fact: "I debug with coffee ☕ and deploy with courage 🚀"
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <br/>
-##<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Stats" width="30" /> &nbsp;GitHub Stats
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Stats" width="30" /> &nbsp;GitHub Stats
 
 <div align="center">
 
