@@ -222,19 +222,18 @@ alt="GitHub Streak"
 
 <tr>
 
-<td colspan="2" align="center">
+<td colspan="1" align="center">
 
 <br>
 
 <div align="left">
-
+  
 ```
 🐍 Python          ████████████████████
 💻 C               ████████████████
 📊 SQL             ███████████████
 💻 CPP             ██████████
 ```
-
 </div>
 
 </td>
