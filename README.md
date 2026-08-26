@@ -112,24 +112,48 @@ fun_fact: "I debug with coffee ☕ and deploy with courage 🚀"
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                    📊 SKILL PROFICIENCY                         ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  Python       ████████████████████████████████░░░░  85%  🐍     ║
-║  ML/AI        █████████████████████████████░░░░░░░  75%  🤖     ║
-║  Data Science ██████████████████████████████░░░░░░  78%  📊     ║
-║  Pandas       ████████████████████████████████░░░░  82%  🐼     ║
-║  HTML/CSS     ████████████████████████████░░░░░░░░  72%  🌐     ║
-║  JavaScript   ████████████████████████░░░░░░░░░░░░  62%  ⚡     ║
-║  NumPy        █████████████████████████████░░░░░░░  75%  🔢     ║
-║  Scikit-Learn ██████████████████████████░░░░░░░░░░  68%  🧪     ║
-║  Git/GitHub   █████████████████████████████░░░░░░░  75%  🔀     ║
-║  Jupyter      ████████████████████████████████░░░░  82%  📓     ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<table align="center">
+<tr>
+<td align="center">
+  <img src="https://progress-bar.xyz/85/?title=Python&width=250&color=00D2FF" alt="Python 85%" />
+</td>
+<td align="center">
+  <img src="https://progress-bar.xyz/75/?title=ML%2FAI&width=250&color=E040FB" alt="ML/AI 75%" />
+</td>
+</tr>
+<tr>
+<td align="center">
+  <img src="https://progress-bar.xyz/78/?title=Data%20Science&width=250&color=00F5A0" alt="Data Science 78%" />
+</td>
+<td align="center">
+  <img src="https://progress-bar.xyz/82/?title=Pandas&width=250&color=FCA311" alt="Pandas 82%" />
+</td>
+</tr>
+<tr>
+<td align="center">
+  <img src="https://progress-bar.xyz/72/?title=HTML%2FCSS&width=250&color=FF6B6B" alt="HTML/CSS 72%" />
+</td>
+<td align="center">
+  <img src="https://progress-bar.xyz/62/?title=JavaScript&width=250&color=FCA311" alt="JavaScript 62%" />
+</td>
+</tr>
+<tr>
+<td align="center">
+  <img src="https://progress-bar.xyz/75/?title=NumPy&width=250&color=00D2FF" alt="NumPy 75%" />
+</td>
+<td align="center">
+  <img src="https://progress-bar.xyz/68/?title=Scikit-Learn&width=250&color=00F5A0" alt="Scikit-Learn 68%" />
+</td>
+</tr>
+<tr>
+<td align="center">
+  <img src="https://progress-bar.xyz/75/?title=Git%2FGitHub&width=250&color=E040FB" alt="Git/GitHub 75%" />
+</td>
+<td align="center">
+  <img src="https://progress-bar.xyz/82/?title=Jupyter&width=250&color=FF6B6B" alt="Jupyter 82%" />
+</td>
+</tr>
+</table>
 
 </div>
 
