@@ -212,7 +212,7 @@ alt="GitHub Stats"
 <td align="center">
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com?user=CodeWithAnurup&theme=radical&background=0d1117&border=FCA311&stroke=FCA311&ring=FF6B6B&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FCA311&currStreakLabel=E040FB&sideLabels=E040FB&dates=c9d1d9"
+src="https://streak-stats.demolab.com?user=CodeWithAnurup&theme=radical&background=0d1117&border=FCA311&stroke=FCA311&ring=FF6B6B&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FCA311&currStreakLabel=E040FB&sideLabels=E040FB&dates=c9d1d9&amp;v=2"
 alt="GitHub Streak"
 />
 
@@ -257,19 +257,7 @@ alt="Top Languages"
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  📊 ACTIVITY GRAPH                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<br/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Activity" width="30" /> &nbsp;Activity Graph
-
-<div align="center">
-
-[![Anurup's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeWithAnurup&bg_color=0d1117&color=FF6B6B&line=FCA311&point=E040FB&area=true&area_color=E040FB&hide_border=true&custom_title=Anurup's%20Contribution%20Graph)](https://github.com/CodeWithAnurup)
-
-</div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   🤝 CONNECT WITH ME                          -->
@@ -282,6 +270,7 @@ alt="Top Languages"
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-anurupsamanta62@gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27)](mailto:anurupsamanta62@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anurup_Samanta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27)](https://www.linkedin.com/in/anurup-samanta)
 [![GitHub](https://img.shields.io/badge/GitHub-CodeWithAnurup-FCA311?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27)](https://github.com/CodeWithAnurup)
 
 </div>
