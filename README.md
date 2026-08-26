@@ -203,7 +203,7 @@ fun_fact: "I debug with coffee ☕ and deploy with courage 🚀"
 <td align="center">
 
 <img
-src="https://github-readme-stats-sigma-five.vercel.app/api?username=CodeWithAnurup&show_icons=true&theme=radical&bg_color=0d1117&border_color=FF6B6B&title_color=FF6B6B&icon_color=FCA311&text_color=c9d1d9&ring_color=E040FB&hide_border=false&count_private=true&include_all_commits=true"
+src="https://gh-readme-stats.vercel.app/api?username=CodeWithAnurup&show_icons=true&theme=radical&bg_color=0d1117&border_color=FF6B6B&title_color=FF6B6B&icon_color=FCA311&text_color=c9d1d9&ring_color=E040FB&hide_border=false&count_private=true&include_all_commits=true"
 alt="GitHub Stats"
 />
 
@@ -212,7 +212,7 @@ alt="GitHub Stats"
 <td align="center">
 
 <img
-src="https://streak-stats.demolab.com?user=CodeWithAnurup&theme=radical&background=0d1117&border=FCA311&stroke=FCA311&ring=FF6B6B&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FCA311&currStreakLabel=E040FB&sideLabels=E040FB&dates=c9d1d9"
+src="https://github-readme-streak-stats.herokuapp.com?user=CodeWithAnurup&theme=radical&background=0d1117&border=FCA311&stroke=FCA311&ring=FF6B6B&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FCA311&currStreakLabel=E040FB&sideLabels=E040FB&dates=c9d1d9"
 alt="GitHub Streak"
 />
 
@@ -227,7 +227,7 @@ alt="GitHub Streak"
 <br>
 
 <img
-src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CodeWithAnurup&layout=compact&theme=radical&bg_color=0d1117&border_color=FF6B6B&title_color=FF6B6B&text_color=c9d1d9&hide_border=false"
+src="https://gh-readme-stats.vercel.app/api/top-langs/?username=CodeWithAnurup&layout=compact&theme=radical&bg_color=0d1117&border_color=FF6B6B&title_color=FF6B6B&text_color=c9d1d9&hide_border=false"
 alt="Top Languages"
 />
 
