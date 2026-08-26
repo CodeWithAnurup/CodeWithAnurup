@@ -222,19 +222,14 @@ alt="GitHub Streak"
 
 <tr>
 
-<td colspan="1" align="center">
+<td colspan="2" align="center">
 
 <br>
 
-<div align="left">
-  
-```
-🐍 Python          ████████████████████
-💻 C               ████████████████
-📊 SQL             ███████████████
-💻 CPP             ██████████
-```
-</div>
+<img
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CodeWithAnurup&layout=compact&theme=radical&bg_color=0d1117&border_color=FF6B6B&title_color=FF6B6B&text_color=c9d1d9&hide_border=false"
+alt="Top Languages"
+/>
 
 </td>
 
